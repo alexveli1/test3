@@ -1,3 +1,3 @@
-module ~/Documents/GitHub/test3/somemodule
+module github.com/alexveli1/test3/somemodule
 
 go 1.18
